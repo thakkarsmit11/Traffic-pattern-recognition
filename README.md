@@ -20,3 +20,12 @@ The patterns revealed using the proposed approch can be well identified and unde
 <img width="642" alt="1" src="https://user-images.githubusercontent.com/64182050/216212933-6d9ad155-0e32-49de-9a72-8c793ac0ceb0.PNG">
 
 <img width="707" alt="3" src="https://user-images.githubusercontent.com/64182050/216213197-58e0c17a-7096-4a8d-a4ae-ead3894a7297.PNG">
+
+
+# How to use?
+
+The python scrip "Optimal_Clusters.ipynb" is the main script that uses the travel time data from "TT_all_day_morning.csv" to reveal the traffic patterns and produce output files such as heatmaps, log files, optimal cluster plot, cluster quality plots, distance matrix (a csv) and a few other plots including a dendrogram from the cluster analysis. 
+
+The entire script is automised and only file paths needs to be provided by the user. 
+
+Other scipts such as "KDE_&_Profile_Plots.ipynb", "Structural_Similarity_Plots.ipynb", and "Deno.ipynb" are provided for the user to produce and understand various parts of the main script i.e., "Optimal_Clusters.ipynb"
