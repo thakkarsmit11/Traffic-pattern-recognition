@@ -29,3 +29,5 @@ The python scrip "Optimal_Clusters.ipynb" is the main script that uses the trave
 The entire script is automised and only file paths needs to be provided by the user. 
 
 Other scipts such as "KDE_&_Profile_Plots.ipynb", "Structural_Similarity_Plots.ipynb", and "Deno.ipynb" are provided for the user to produce and understand various parts of the main script i.e., "Optimal_Clusters.ipynb"
+
+For more details on the method, refer to the slide deck "Pattern_Recognition.pptm".
